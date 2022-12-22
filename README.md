@@ -11,3 +11,11 @@ password: 123456
 
 ... and see the functionalites you can have as an admin too!
 also new user can sign up and login into it
+
+add dotenv
+MONGO_URI= mongodb+srv://cluster
+SECRET= 
+NODE_ENV = 
+PORT = 5000
+JWT_SECRET =
+PAYPAL_CLIENT_ID =
