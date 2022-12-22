@@ -9,6 +9,13 @@ Or log in as an admin with the following account:
 email: admin@example.com <br>
 password: 123456
 
+node modules
+npm i
+
+for run 
+npm start
+
+
 ... and see the functionalites you can have as an admin too!
 also new user can sign up and login into it
 
