@@ -1,4 +1,4 @@
-# Harshit's shop E-Commerce MERN Full Stack App which is develop for ibrat innovations as a assessment
+# Harshit's shop E-Commerce MERN Full Stack App which is develop for collage project as a learning via youtube
 
 Visit the App fully working!!
 
